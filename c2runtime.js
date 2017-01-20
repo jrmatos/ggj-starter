@@ -19436,9 +19436,11 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.EveryTick,
 	cr.plugins_.Sprite.prototype.acts.RotateClockwise,
 	cr.system_object.prototype.cnds.Every,
+	cr.system_object.prototype.acts.SetVar,
 	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.plugins_.Text.prototype.acts.SetVisible,
-	cr.system_object.prototype.acts.SetVar,
+	cr.system_object.prototype.acts.ResetGlobals,
 	cr.system_object.prototype.acts.RestartLayout,
+	cr.system_object.prototype.cnds.CompareVar,
 	cr.plugins_.Text.prototype.acts.SetText
 ];};
