@@ -19427,9 +19427,8 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.cnds.OnCollision,
 	cr.plugins_.Sprite.prototype.acts.SetInstanceVar,
 	cr.plugins_.Sprite.prototype.acts.SetMirrored,
-	cr.plugins_.Touch.prototype.cnds.OnTapGesture,
+	cr.plugins_.Touch.prototype.cnds.IsTouchingObject,
 	cr.behaviors.Platform.prototype.acts.SetMaxSpeed,
-	cr.system_object.prototype.acts.Wait,
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.system_object.prototype.acts.CreateObject,
 	cr.system_object.prototype.exps.random,
@@ -19439,8 +19438,10 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.SetVar,
 	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.plugins_.Text.prototype.acts.SetVisible,
+	cr.system_object.prototype.acts.Wait,
 	cr.system_object.prototype.acts.ResetGlobals,
 	cr.system_object.prototype.acts.RestartLayout,
 	cr.system_object.prototype.cnds.CompareVar,
 	cr.plugins_.Text.prototype.acts.SetText
 ];};
+
