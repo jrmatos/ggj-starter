@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1485111403,
+	"version": 1485114852,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -42,6 +42,7 @@
 		"images/scorebg-sheet0.png",
 		"images/record-sheet0.png",
 		"images/home-sheet0.png",
+		"images/highscorebg-sheet0.png",
 		"media/goitempilula.ogg",
 		"media/gotitemcogumelo.ogg",
 		"media/do ya thing (instrumental)v2.ogg",

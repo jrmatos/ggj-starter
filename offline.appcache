@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1485111403
+#1485114852
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -41,6 +41,7 @@ images/gameover-sheet0.png
 images/scorebg-sheet0.png
 images/record-sheet0.png
 images/home-sheet0.png
+images/highscorebg-sheet0.png
 media/goitempilula.ogg
 media/gotitemcogumelo.ogg
 media/do%20ya%20thing%20(instrumental)v2.ogg
