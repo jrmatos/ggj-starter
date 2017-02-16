@@ -8,9 +8,9 @@
 
 #### Team Developers
 
-##### [Fernando Dantas] @fernandodantasfilho
-##### [Paulo Matos] @jrmatos
-##### [Jeferson Barros] @jbalves
+  [Fernando Dantas] (https://github.com/fernandodantasfilho)
+  [Paulo Matos] (https://github.com/jrmatos)
+  [Jeferson Barros] (https://github.com/jbalves)
   
 #### Team Designers
 
