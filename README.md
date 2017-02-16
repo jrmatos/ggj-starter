@@ -10,7 +10,7 @@
 
   [Fernando Dantas] @fernandodantasfilho
   [Paulo Matos] @jrmatos
-  @jbalves
+  [Jeferson Barros] @jbalves
   
 #### Team Designers
 
