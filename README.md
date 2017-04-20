@@ -1,6 +1,6 @@
 # Mind Waves
 
-## Game Developed in Global Game Jam 2017
+## Game Developed in the Global Game Jam 2017
 
 ![GitHub Logo](/sprites/Banner.png)
 
