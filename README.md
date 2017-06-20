@@ -8,9 +8,9 @@
 
 ### Team Developers
 
-####  [Fernando Dantas] (https://github.com/fernandodantasfilho)
-####  [Paulo Matos] (https://github.com/jrmatos)
-####  [Jeferson Barros] (https://github.com/jbalves)
+####  [Fernando Dantas](https://github.com/fernandodantasfilho)
+####  [Paulo Matos](https://github.com/jrmatos)
+####  [Jeferson Barros](https://github.com/jbalves)
   
 ### Team Designers
 
@@ -18,7 +18,7 @@
   * Yasmin Rodrigues
   * George Lucas
   
-## [PLAY] (https://jrmatos.github.io/mind-waves)
+## [PLAY](https://jrmatos.github.io/mind-waves)
 
 --
 MIT Licensed.
