@@ -18,7 +18,7 @@
   * Yasmin Rodrigues
   * George Lucas
   
-## [PLAY](https://jrmatos.github.io/mind-waves)
+# [PLAY](https://jrmatos.github.io/mind-waves)
 
---
+--------------------------
 MIT Licensed.
